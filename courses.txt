@@ -4,3 +4,4 @@ Gen AI
 service now developer
 Google cloud platform
 devoopssssssssss
+git is used in every project
