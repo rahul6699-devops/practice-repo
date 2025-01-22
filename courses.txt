@@ -1,3 +1,4 @@
 Devops Master course
 AWS master course
 Gen AI
+Google cloud platform
